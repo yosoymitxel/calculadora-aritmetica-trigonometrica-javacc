@@ -4,3 +4,9 @@ La calculadora desarrollada con JavaCC realiza una variedad de operaciones aritm
 
 
 ![image](https://github.com/yosoymitxel/calculadora-aritmetica-trigonometrica-javacc/assets/44605381/974ba887-9b75-4f67-8fe9-a2df11b425ad)
+
+
+## Archivo principal: 
+
+Calculadora.jj
+
